@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://192.168.0.103:8080/MainServiceWSService/MainServiceWS?wsdl" uri="src/conf/xml-resources/web-service-references/MainServiceWS/wsdl/192.168.0.103_8080/MainServiceWSService/MainServiceWS.wsdl"/>
+    <system systemId="http://192.168.0.103:8080/MainServiceWSService/MainServiceWS?xsd=1" uri="src/conf/xml-resources/web-service-references/MainServiceWS/wsdl/192.168.0.103_8080/MainServiceWSService/MainServiceWS.xsd_1.xsd"/>
+    <system systemId="http://192.168.0.103:8080/MainWSService/MainWS?wsdl" uri="src/conf/xml-resources/web-service-references/MainWS/wsdl/192.168.0.103_8080/MainWSService/MainWS.wsdl"/>
+    <system systemId="http://192.168.0.103:8080/MainWSService/MainWS?xsd=1" uri="src/conf/xml-resources/web-service-references/MainWS/wsdl/192.168.0.103_8080/MainWSService/MainWS.xsd_1.xsd"/>
+    <system systemId="http://buburutzapc:8080/MonitorWS/MonitorWS?wsdl" uri="src/conf/xml-resources/web-service-references/MonitorWS/wsdl/buburutzapc_8080/MonitorWS/MonitorWS.wsdl"/>
+    <system systemId="http://buburutzapc:8080/MonitorWS/MonitorWS?xsd=1" uri="src/conf/xml-resources/web-service-references/MonitorWS/wsdl/buburutzapc_8080/MonitorWS/MonitorWS.xsd_1.xsd"/>
+</catalog>
